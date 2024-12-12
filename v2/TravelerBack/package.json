@@ -28,7 +28,7 @@
     "md5": "^2.2.1",
     "mock-req": "^0.2.0",
     "mock-res": "^0.5.0",
-    "mongoose": "^5.5.7",
+    "mongoose": "^5.7.5",
     "sendgrid": "^2.0.0",
     "sinon": "^7.3.2",
     "unit.js": "^2.1.0"
